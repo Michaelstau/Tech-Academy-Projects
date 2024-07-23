@@ -3,7 +3,124 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Michael Stauber</title>
+    <link rel="stylesheet" type="text/css" href="./css/styles.css" />
   </head>
-  <body></body>
+
+  <body class="background">
+    <!--------
+      NAVBAR
+    --------->
+    <div class="navbar">
+      <a class="active" href="#Home">Home</a>
+      <a href="#About">About</a>
+      <a href="#Github">Github</a>
+      <a href="#Contact">Contact</a>
+    </div>
+
+    <br />
+    <br />
+
+    <!------------------
+      BACKGROUND VIDEO
+    ------------------->
+    <div id="Home">
+      <!--       <video autoplay muted loop id="..........">
+        <source src="..........">
+      </video> -->
+    </div>
+    <!------------
+      VIDEO TEXT
+    ------------->
+    <div class="Video_Text">
+      <h1 class="white-text">Michael's Portfolio</h1>
+      <strong>
+        <p class="center">
+          <q>Profound thoughts about my programing approach and ethics.</q>
+          <br />
+          <br />
+          <br />
+          I'm Michael, this is my under construction portfolio site.
+          <br />
+          <br />
+          Have a nice day.
+        </p>
+      </strong>
+    </div>
+    <!-------
+      ABOUT
+    -------->
+    <div class="Row" id="About">
+      <!-- LEFT COLUMN -->
+      <div class="Column_2">
+        <!-- <img src=".........." alt=".........."> -->
+      </div>
+      <!-- RIGHT COLUMN -->
+      <div class="Column_1">
+        <h1>About</h1>
+        <p>
+          Cool facts about my identity that imply you should hire me live here.
+          It's cozy.
+          <br />
+          <br />
+          Credentials! I've been studying this stuff a couple years now, and am
+          working through
+          <a href="https://www.learncodinganywhere.com" target="_blank"
+            >The Tech Academy</a
+          >'s bootcamp. I know languages, frameworks, and stuff like: Python,
+          JS, Node, Express, React, MongoDB, Django, Flask, HTML, CSS, and more?
+          Probably!
+          <br />
+          <br />I'm a full stack dev and would love to <del>get paid</del> be a
+          part of your team! <a href="#Contact">Contact</a> me below!
+        </p>
+      </div>
+    </div>
+    <!--------
+      GITHUB
+    --------->
+    <div class="Row" id="Github">
+      <!-- LEFT COLUMN -->
+      <div class="Column_1">
+        <h1>GitHub</h1>
+        <p>
+          My coding projects can be viewed
+          <a href="https://github.com/Michaelstau">here</a>
+        </p>
+      </div>
+      <!-- RIGHT COLUMN -->
+      <div class="Column_2">
+        <a href="https://github.com/Michaelstau"
+          ><img src="./images/GitHub.png" alt="GitHub logo"
+        /></a>
+      </div>
+    </div>
+    <!---------
+      CONTACT
+    ---------->
+    <div class="Row" id="Contact">
+      <!-- LEFT COLUMN -->
+      <div class="Column_2 Column_tall">
+        <!-- <img src=".........." alt=""> -->
+      </div>
+      <!-- RIGHT COLUMN -->
+      <div class="Column_1 Column_tall">
+        <h1>Contact</h1>
+        <form action="" method="POST">
+          <label>Name:</label>
+          <input type="text" placeholder="Your name" />
+          <label>Email:</label>
+          <input type="text" id="Email" name="Email" placeholder="Your Email" />
+          <label>Message:</label>
+          <input
+            type="text"
+            id="Message"
+            name="Message"
+            placeholder="Your message here"
+          />
+          <input type="submit" value="submit" />
+        </form>
+      </div>
+    </div>
+  </body>
 </html>
