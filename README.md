@@ -14,3 +14,5 @@ An early excercise using basic HTML and CSS.
 ### Movie Theater Site
 
 An excercise utilizing Bootstrap 4 components and grid system.
+
+## JS Projects (coming soon)
