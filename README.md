@@ -4,8 +4,8 @@ Here you'll find various Tech Academy I've completed.
 
 ## HTML/CSS Projects
 
-[Time Travel Site](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/Basic_HTML_and_CSS/project)
-[Movie Theater Site](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/Basic_HTML_and_CSS/bootstrap4_project)
+[Time Travel Site](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/HTML_and_CSS/project)
+[Movie Theater Site](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/HTML_and_CSS/bootstrap4_project)
 
 ### Time Travel Site
 
