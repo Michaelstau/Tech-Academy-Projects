@@ -6,5 +6,5 @@ var sentence = "I am learning"; //assign a global variable
 
 function addStuff() {
   sentence += " so much!"; //concatenate " so much!" to sentence variable
-  document.getElementById("concatenate").innerHTML = sentence; //display variable in the "concatenate" paragraph.
+  document.getElementById("concatenate").innerHTML = sentence; //display variable in the  paragraph.
 }
