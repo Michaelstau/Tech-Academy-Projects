@@ -1,6 +1,6 @@
 # Tech-Academy-Projects
 
-Here you'll find various Tech Academy I've completed.
+Here you'll find various Tech Academy projects I've completed.
 
 ## HTML/CSS Projects
 
