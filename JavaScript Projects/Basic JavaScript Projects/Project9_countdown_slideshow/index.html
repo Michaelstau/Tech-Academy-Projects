@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="./CSS/main.css">
+  <title>Project 9</title>
+</head>
+<body>
+  <p>How many seconds would you like to set your alarm for</p>
+  <input id="Seconds" value="">
+  <button onclick="countdown()">Click here</button>
+  <p id="Timer"></p>
+
+  <!-- SLIDESHOW -->
+  <div class="container-slideshow">
+    <div class="slide-fade fade">
+      <div class="slide-num"></div>
+      <img class="slide" src="./images/catbarista1.png" alt="a cat barista">
+      <div class="caption"></div>
+    </div>
+
+    <div class="slide-fade fade">
+      <div class="slide-num"></div>
+      <img class="slide" src="./images/catbarista2.png" alt="a cat barista">
+      <div class="caption"></div>
+    </div>
+
+    <div class="slide-fade fade">
+      <div class="slide-num"></div>
+      <img class="slide" src="./images/catbarista3.jpg" alt="a cat barista">
+      <div class="caption"></div>
+    </div>
+
+    <!-- BUTTONS -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094</a>
+    <a class="next" onclick="plusSlides(1)">&#10095</a>
+
+    <!-- CIRCLE INDICATORS -->
+    <div class="container-dot">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+
+  </div>
+  <script src="./JS/main.js"></script>
+</body>
+</html>
