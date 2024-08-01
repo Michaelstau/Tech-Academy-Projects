@@ -1,75 +1,115 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <title>Pedals</title>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="./CSS/one_page_website.css">
-    <title>Cubed+</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/main.css">
+    <script src="./JS/main.js" defer></script>
   </head>
   <body>
-    <h1>Cubed+</h1>
-    <p>Your resource for 3d puzzles, cubes, and nicknacks</p>
     <nav>
       <a href="#videos">Videos</a>
       <a href="#contact">Contact</a>
     </nav>
 
-    <!-- Gallery -->
-    <section>
-    <div>
-      <!-- image 1 -->
-      <div>
-        <div>
-          <img src="./images/thumbs/infinity_cube.png" alt="infinity cube" />
-        </div>
-      </div>
-      <!-- end image 1 -->
-      <!-- image 2 -->
-      <div>
-        <div>
-          <img
-            src="./images/thumbs/shape_cube.png"
-            alt="Shape changing cube puzzle"
-          />
-        </div>
-      </div>
-      <!-- end image 2 -->
-      <!-- image 3 -->
-      <div>
-        <div>
-          <img
-            src="./images/thumbs/dodecahedron.png"
-            alt="Dodecahedron color puzzle"
-          />
-        </div>
-      </div>
-      <!-- end image 3 -->
-      <!-- End Gallery -->
-    </section>
-      <!-- blurb -->
-      <!-- End blurb-->
-      <!-- videos -->
+    <!-- LIGHTBOX -->
+    <div id="myModel" class="model">
+      <span class="close cursor" onclick="closeModel()">&times</span>
+      <div class="model-content">
 
+        <div class="mySlides">
+          <div class="numberText">1 / 4</div>
+          <img src="./images/plant1.png" style="width:100%" alt="">
+        </div>
+
+        <div class="mySlides">
+          <div class="numberText">2 / 4</div>
+          <img src="./images/plant2.png" style="width:100%" alt="">
+        </div>
+
+        <div class="mySlides">
+          <div class="numberText">3 / 4</div>
+          <img src="./images/plant3.png" style="width:100%" alt="">
+        </div>
+
+        <div class="mySlides">
+          <div class="numberText">4 / 4</div>
+          <img src="./images/plant4.png" style="width:100%" alt="">
+        </div>
+
+
+        <!-- PREV/NEXT CONTROLS -->
+        <a class="prev" onclick="plusSlides(-1)">&#10094</a>
+        <a class="next" onclick="plusSlides(1)">&#10095</a>
+
+        <div class="caption-container">
+          <p id="caption"></p>
+        </div>
+
+        <!-- THUMBNAIL CONTROLS -->
+        <div class="column">
+          <img class="demo" src="./images/thumbs/plant1-small.png" onclick="currentSlide(1)" alt="">
+        </div>
+
+        <div class="column">
+          <img class="demo" src="./images/thumbs/plant2-small.png" onclick="currentSlide(2)" alt="">
+        </div>
+
+        <div class="column">
+          <img class="demo" src="./images/thumbs/plant3-small.png" onclick="currentSlide(3)" alt="">
+        </div>
+
+        <div class="column">
+          <img class="demo" src="./images/thumbs/plant4-small.png" onclick="currentSlide(4)" alt="">
+        </div>
+      </div>
+    </div>
+      <!-- END LIGHTBOX -->
+
+    <!-- Gallery -->
+    <!-- image 1 -->
+    <div class="row">
+      <div class="column">
+        <img src="./images/thumbs/plant1-small.png" onclick="openModel();currentSlide(1)" class="hover-shadow" alt="" />
+      </div>
+
+      <div class="column">
+        <img src="./images/thumbs/plant2-small.png" onclick="openModel();currentSlide(2)" class="hover-shadow" alt=""/>
+      </div>
+
+      <div class="column">
+        <img src="./images/thumbs/plant3-small.png" onclick="openModel();currentSlide(3)" class="hover-shadow" alt=""/>
+      </div>
+
+      <div class="column">
+        <img src="./images/thumbs/plant4-small.png" onclick="openModel();currentSlide(4)" class="hover-shadow" alt=""/>
+      </div>
+
+    </div>
+    <!-- End Gallery -->
+
+      <!-- videos -->
       <div id="videos">
-        <iframe src="https://www.youtube.com/embed/smQdfQ8dGT8"></iframe>
-        <iframe src="https://www.youtube.com/embed/xqnJEwcNDuM"></iframe>
-        <iframe src="https://www.youtube.com/embed/dpZFUI4EJvA"></iframe>
+        <iframe src="https://www.youtube.com/embed/QHWQDPwCcts"></iframe>
+        <iframe src="https://www.youtube.com/embed/gpZxiJKHB9c"></iframe>
+        <iframe src="https://www.youtube.com/embed/h8KJ4ImgNVc"></iframe>
       </div>
       <!-- End videos -->
       <!-- contact -->
       <div id="contact">
         <form action="">
-            <input type="text" value="Name" />
-            <input type="text" value="Email" />
-            <input type="text" value="Message" />
-            <div>
-              <input type="submit" value="submit" />
-            </div>
-        </div>
+          <input type="text" value="Name" />
+          <input type="text" value="Email" />
+          <input type="text" value="Message" />
+          <div>
+            <input type="submit" value="submit" />
+          </div>
+        </form>
+      </div>
       <!-- End contact -->
-      </form>
-    </div>
   </body>
   <footer>
-    www.cubed+.square | 2024
+    www.pedals.com | 2024
   </footer>
 </html>
