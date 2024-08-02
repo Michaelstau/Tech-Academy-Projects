@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  </head>
+  <script>
+    //targeting the document object and running the function when it's ready.
+    $(document).ready(function (){
+      //appending a body and all contained html to the html element.
+      $("html").append(
+        "<body>\
+          <div id='container'>\
+            <div id='inner'>\
+              <h1>Basic JQuery</h1>\
+              <input type='text'>\
+              <p id='1'>Paragraph 1</p>\
+              <p id='2'>Paragraph 2</p>\
+              <p id='3'>Paragraph 3</p>\
+            </div>\
+          </div>\
+        </body>"
+      );
+      //when element with id 1 is clicked, hidden h1 element(s) slide back down over 3 seconds
+      $("#1").click(function() {
+        $("h1").slideDown( 3000)
+      })
+      //element with id 2 is red
+      $("#2").css({"color":"red"});
+      //when element with id 3 is clicked, h1 element(s) are hidden over 1 second.
+      $("#3").on("click", function() {
+        $("h1").hide( 1000 );
+      })
+      //when input elements change (are writen in), element id 2 hides over half a second.
+      $("input").on("change", function() {
+        $("#2").hide( 500 )
+      })
+    });
+
+  </script>
+    <body>
+
+  </body>
+    </body>
+</html>
