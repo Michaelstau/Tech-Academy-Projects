@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Michael Stauber</title>
     <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+    <script src="./JS/main.js" defer></script>
   </head>
 
   <body class="background">
@@ -15,9 +16,8 @@
       <a class="active" href="#Home">Home</a>
       <a href="#About">About</a>
       <a href="#Github">Github</a>
-      <a href="#Contact">Contact</a>
-      <!-- TODO
-      - ADD an onclick open form function to contact and dblclick close form function
+      <a onclick="openForm()" ondblclick="closeForm()">Contact</a>
+      <!--
       - ADD nav for slideshow
        -->
     </div>
@@ -87,9 +87,7 @@
           <br />
           <br />I'm looking to start as a junior full stack dev and would love
           to be a part of your team!
-          <!-- TODO
-           replace with open form function
-           --><a href="#Contact">Contact</a> me below!
+          <button onclick="openForm()" ondblclick="closeForm()">Get in touch.</button>
         </p>
       </div>
     </div>
@@ -113,9 +111,7 @@
         /></a>
       </div>
     </div>
-    <!---------
-      CONTACT
-    ---------->
+
 
     <!-- TODO
      make a button for popup form, and put popup for here -->
@@ -126,24 +122,39 @@
       </div>
       <!-- RIGHT COLUMN -->
       <div class="Column_1 Column_tall">
-        <h1>Contact</h1>
-        <form action="https://formspree.io/f/mwpevqab" method="POST">
-          <label>Name:</label>
-          <input type="text" placeholder="Your name" />
-          <label>Email:</label>
-          <input type="text" id="Email" name="Email" placeholder="Your Email" />
-          <label>Message:</label>
+      </div>
+    </div>
+
+
+    <!-------
+     CONTACT
+    -------->
+
+    <div id="Contact">
+      <button class="contact-button" onclick="openForm()">CONTACT</button>
+      <div class="form-popup" id="contactForm">
+        <form class="form-container" action="https://formspree.io/f/mwpevqab" method="POST">
+          <h1>Contact</h1>
+          <label for="name">Name:</label>
+          <input type="text" name="name" id="name" placeholder="Your name" required/>
+          <label for="phone">Phone:</label>
+          <input type="text" name="phone" id="phone" placeholder="Phone number"/>
+          <label for="email">Email:</label>
+          <input type="text" name="Email" id="email" placeholder="Your Email" required/>
+          <label for="message">Message:</label>
           <input
             type="text"
-            id="Message"
             name="Message"
-            placeholder="Your message here"
+            id="message"
+            placeholder="Type message here."
           />
-          <input type="submit" value="submit" />
+          <button type="submit" class="btn">SUBMIT</button>
+          <button type="button" class="btn close" onclick="closeForm()">CLOSE</button>
         </form>
       </div>
     </div>
   </body>
-  <!-- TODO
-   your name and the year in footer -->
+  <footer>
+    <p class="center">Michael Stauber | 2024</p><br>
+  </footer>
 </html>
