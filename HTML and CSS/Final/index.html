@@ -14,16 +14,12 @@
     --------->
     <div class="Navbar">
       <a class="active" href="#Home">Home</a>
+      <a href="#Slideshow">Slideshow</a>
       <a href="#About">About</a>
       <a href="#Github">Github</a>
       <a onclick="openForm()" ondblclick="closeForm()" class="contact">Contact</a>
-      <!--
-      - ADD nav for slideshow
-       -->
     </div>
 
-    <br />
-    <br />
 
     <!------------------
       BACKGROUND VIDEO
@@ -45,24 +41,39 @@
           <br />
           <br />
           <br />
-          Welcom to my Portfolio
+          Welcome to my Portfolio
           <br />
           <br />
         </p>
       </strong>
     </div>
 
-    <!-- TODO
-     Slideshow here.
-     - your face
-     - HTML CSS JS logo
-     - python logo
-     - MERN logo
-
-     - text description under each
-     - prev/next buttons
-     - nav dots... maybe
-     -->
+    <div id="Slideshow">
+      <div id="Slideshow_Background">
+        <div id="Slideshow_Container">
+          <div class="slides fade">
+            <img class="Slideshow_Images" src="./images/self.jpg" alt="A picture of Michael">
+            <div class="text">Not just programming here.</div>
+          </div>
+          <div class="slides fade">
+            <img class="Slideshow_Images" src="./images/HTML_CSS_and_JavaScript.jpeg" alt="Logos for HTML, CSS, and JS">
+            <div class="text">Experienced in HTML CSS and JS.</div>
+          </div>
+          <div class="slides fade">
+            <img class="Slideshow_Images" src="./images/mern-stack-logo.jpg" alt="Logo for MERN stack">
+            <div class="text">Capable working in the MERN Stack.</div>
+          </div>
+          <div class="slides fade">
+            <img class="Slideshow_Images" src="./images/Python.png" alt="Logo for Python">
+            <div class="text">Thrilled to work in Python territory.</div>
+          </div>
+          <a class="Previous" onclick="plusSlides(-1)">&#10094;</a>
+          <a class="Next" onclick="plusSlides(1)">&#10095;</a>
+        </div>
+        <br>
+        <br>
+      </div>
+    </div>
     <!-------
       ABOUT
     -------->
@@ -75,19 +86,13 @@
       <div class="Column_1">
         <h1>About</h1>
         <p>
-          <br />
-          <br />
           I've been Diving into the programming world for just under two years
           now. At first self-directed, and now through
           <a href="https://www.learncodinganywhere.com" target="_blank"
             >The Tech Academy</a
           >'s software developer bootcamp. I have experience in: Python, JS,
-          Node, Express, React, MongoDB, Django, Flask, HTML, CSS, and more?
+          MongoDB Express, React, Node, Django, Flask, HTML, CSS, and more?
           <br />Certainly more!
-          <br />
-          <br />I'm looking to start as a junior full stack dev and would love
-          to be a part of your team!
-          <button onclick="openForm()" ondblclick="closeForm()">Get in touch.</button>
         </p>
       </div>
     </div>
@@ -99,9 +104,16 @@
       <div class="Column_1">
         <h1>GitHub</h1>
         <p>
-          interested in viewing
-          <a href="https://github.com/Michaelstau">some of my work</a>
-          ?
+
+          I'm looking to start as a junior full stack dev and would love
+          to be a part of your team!
+          take a look at <a href="https://github.com/Michaelstau"> some of my work.</a>
+          <br>
+          <span style="margin-left: 48%;">or</span>
+          <br>
+          <br>
+          <button onclick="openForm()" ondblclick="closeForm()">Get in touch.</button>
+
         </p>
       </div>
       <!-- RIGHT COLUMN -->
@@ -111,15 +123,7 @@
         /></a>
       </div>
     </div>
-    <div class="Row" id="Contact">
-      <!-- LEFT COLUMN -->
-      <div class="Column_2 Column_tall">
-        <!-- <img src=".........." alt=""> -->
-      </div>
-      <!-- RIGHT COLUMN -->
-      <div class="Column_1 Column_tall">
-      </div>
-    </div>
+
 
 
     <!-------
