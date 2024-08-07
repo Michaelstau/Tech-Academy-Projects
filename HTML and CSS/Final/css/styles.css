@@ -50,8 +50,8 @@ p:hover {
 }
 
 .center:hover {
-  transition: transform 2s;
-  transform: scale(1.1);
+  transition: none;
+  transform: none;
 }
 
 a {
@@ -62,6 +62,10 @@ a {
 
 q {
   font-style: italic;
+}
+
+.centered {
+  margin-left: 44%;
 }
 
 img {
@@ -382,10 +386,75 @@ button:hover, .form-container .btn:hover {
   border-color: black;
 }
 
+
+
+@media screen and (max-width: 527px) {
+  p {font-size: 3.75vw;}
+}
+
+@media screen and (min-width: 528px) and (max-width: 660px) {
+  p {font-size: 3.5vw;}
+}
+
+@media screen and (min-width: 661px) and (max-width: 799px) {
+  p {font-size: 2.75vw;}
+}
+
+@media screen and (min-width: 800px) and (max-width: 924px) {
+  p {font-size: 2.5vw;}
+}
+
+@media screen and (min-width: 925px) and (max-width: 1050px) {
+  p {font-size: 2.25vw;}
+}
+
+@media screen and (min-width: 1051px) and (max-width: 1310px) {
+  p {font-size: 2vw;}
+}
+
+@media screen and (min-width: 1311px) and (max-width: 1535px) {
+  p {font-size: 1.75vw;}
+}
+
+@media screen and (min-width: 1536px) and (max-width: 2269px) {
+  p {font-size: 1.75vw;}
+}
+
+@media screen and (min-width: 2270px) {
+  p {font-size: 1.35vw;}
+}
+
+/* navbar sizing */
+
+@media screen and (max-width: 1080px) {
+  .Navbar a{
+    width: 20%;
+    font-size: 2.5vw;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .quote{
+    font-size: 3.5vw;
+  }
+  .white-text{
+    font-size: 4.5vw;
+  }
+}
+
+@media screen and (min-width: 1725px) {
+  .Column_1, .Column_2{
+    height: 550px;
+  }
+}
+
+@media screen and (min-width: 2000px) {
+  h1{
+    margin-top: 0;
+  }
+}
+
 /*  */
-
-
-
 @media screen and (max-width: 576px) {
   img {
     height: 100px;
