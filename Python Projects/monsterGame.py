@@ -21,18 +21,17 @@ def describe_game(name):
 
 def left_right(left,right,name):
   """ Lets the player choose to go left or right, describes the result, and adds 1 to player’s chosen choice. Calls score() """
-  stop = True
-  while stop:
+  pick = ""
+  while pick != ("l" or "r"):
+    print(f"pick = {pick}")
     print(f"\nDistance to your fate: \n({left}, Exit) and ({right}, Monster)")
     pick = input("\nYou arrive at an intersection. \nWill you turn left or right? (L/R) \n").lower()
     if pick == "l":
       print("\n************************************\n\nYou continue on the path and catch the \nscent of fresh air")
       left += 1
-      stop = False
     if pick == "r":
       print("\n************************************\n\nYou continue on the path, but hear a \nmonster up ahead")
       right += 1
-      stop = False
   score(left,right,name)
 
 
