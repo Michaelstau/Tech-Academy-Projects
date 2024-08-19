@@ -1,8 +1,12 @@
 def start(left=0,right=0,name=""):
+  """ First function of monsterGame. Calls describe_game(), left_right(), and assigns variables"""
+  print("\n************* Monster Quest ************")
   name = describe_game(name)
-  left,right,name = left_mean(left,right,name)
+  left,right,name = left_right(left,right,name)
+
 
 def describe_game(name):
+  """ Introduces the player to the game (or greets them if playing again), and returns the player's name. """
   if name != "":
     print(f"\nWelcome, {name}, a year has passed \nsince you last entered this dungeon.")
     return name
@@ -15,42 +19,47 @@ def describe_game(name):
       return name
 
 
-def left_mean(left,right,name):
+def left_right(left,right,name):
+  """ Lets the player choose to go left or right, describes the result, and adds 1 to player’s chosen choice. Calls score() """
   stop = True
   while stop:
-    show_score(left,right,name)
+    print(f"\nDistance to your fate: \n({left}, Exit) and ({right}, Monster)")
     pick = input("\nYou arrive at an intersection. \nWill you turn left or right? (L/R) \n").lower()
     if pick == "l":
-      print("\nYou continue on the path and catch the \nscent of fresh air")
+      print("\n************************************\n\nYou continue on the path and catch the \nscent of fresh air")
       left += 1
       stop = False
     if pick == "r":
-      print("\nYou continue on the path, but hear a \nmonster up ahead")
+      print("\n************************************\n\nYou continue on the path, but hear a \nmonster up ahead")
       right += 1
       stop = False
   score(left,right,name)
 
-def show_score(left,right,name):
-  print(f"\nDistance to your fate: \n({left}, Exit) and ({right}, Monster)")
 
 def score(left,right,name):
+  """ Checks if the player has finished the game and calls escape(), monster(), or left_right accordingly"""
   if left > 2:
-    win(left,right,name)
+    escape(name)
   elif right > 2:
-    lose(left,right,name)
+    monster(name)
   else:
-    left_mean(left,right,name)
+    left_right(left,right,name)
 
 
-def win(left,right,name):
+def escape(name):
+  """ Describes the result of their choices to the player and calls again(). """
   print(f"\nWell done! You escaped the maze! Some \nof your friends are still in there, \nbut at least you survived!")
-  again(left,right,name)
+  again(name)
 
-def lose(left,right,name):
+
+def monster(name):
+  """ Describes the result of their choices to the player and calls again(). """
   print(f"\nThe monster greets you and invites you \nto it's magical maze birthday party. \nYou party all night with your friends \nand promise the monster to return next year!")
-  again(left,right,name)
+  again(name)
 
-def again(left,right,name):
+
+def again(name):
+  """ Asks player if they want to play again and calls reset(), or quit() accordingly """
   choice = ""
   while choice != "y" or "n":
     choice = input("\nDo you want to play again? (y/n): \n").lower()
@@ -64,7 +73,10 @@ def again(left,right,name):
 
 
 def reset(name):
+  """ resets the game """
   start(0,0,name)
 
+
+""" starts the game """
 if __name__ == "__main__":
   start()
