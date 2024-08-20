@@ -60,7 +60,7 @@ def monster(name):
 def again(name):
   """ Asks player if they want to play again and calls reset(), or quit() accordingly """
   choice = ""
-  while choice != "y" or "n":
+  while choice != ("y" or "n"):
     choice = input("\nDo you want to play again? (y/n): \n").lower()
     if choice == "y":
       reset(name)
