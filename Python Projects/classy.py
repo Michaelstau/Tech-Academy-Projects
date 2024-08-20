@@ -42,18 +42,3 @@ class Cookie(Snack):
     self.isSandwich = isSandwich
     self.hasChocolate = hasChocolate
     self.isSoft = isSoft
-
-
-new_snack = Cookie(True, 1, 'Old Maa', False, True, True)
-new_snack.eat()
-print(new_snack.category, new_snack.isFilling, new_snack.numServings, new_snack.isSandwich)
-
-"""
-Create two classes that inherit from another class.
-
-1. Ensure each child has at least two of their own attributes.
-
-2. Add comments throughout your Python explaining your code.
-
-Upload your code to GitHub and submit your link below.
-"""
