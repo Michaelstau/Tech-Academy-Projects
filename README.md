@@ -20,3 +20,11 @@ A basic calculator exercise using JavaScript.
 
 ### [Pizza Menu](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/JavaScript%20Projects/Pizza_Project)
 A simple pizza ordering form that lets you select your pizza and topping and displays your order, and its price. I may spice up the content and CSS for this one at some point.
+
+## Python Projects
+
+### [Classes](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/Python%20Projects/Classes)
+A fairly simple exercise focused on creating python classes, inheritance and such.
+
+### [Django Bank](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/Python%20Projects/Django_Checkbook_Project/BlueBirdBanking)
+A small banking site made with Tech Academy supplied resources using the Django framework. Mostly a project based arounf wrapping my mind around the Djange architecture. Super helpful.
