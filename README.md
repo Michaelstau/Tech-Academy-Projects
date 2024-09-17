@@ -28,3 +28,9 @@ A fairly simple exercise focused on creating python classes, inheritance and suc
 
 ### [Django Bank](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/Python%20Projects/Django_Checkbook_Project/BlueBirdBanking)
 A small banking site made with Tech Academy supplied resources using the Django framework. Mostly a project based arounf wrapping my mind around the Djange architecture. Super helpful.
+
+### [File Transfer](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/Python%20Projects/file_transfer)
+A project using tkinter to make a gui that handles transfering files locally.
+
+### [Phonebook](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/Python%20Projects/phonebook)
+A simple tkinter app that saves contact information in a sqlite database.
