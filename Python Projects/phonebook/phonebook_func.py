@@ -29,14 +29,14 @@ def create_db(self):
   conn = sqlite3.connect('db_phonebook.db')
   with conn:
     cur = conn.cursor()
-    cur.execute('CREATE TABLE if not exists tbl_phonebook( \
+    cur.execute("CREATE TABLE if not exists tbl_phonebook( \
       ID INTEGER PRIMARY KEY AUTOINCREMENT, \
       col_fname TEXT, \
       col_lname TEXT, \
-      col_fullname TEX,T \
+      col_fullname TEXT, \
       col_phone TEXT, \
       col_email TEXT \
-      );')
+      );")
     conn.commit()
   conn.close()
   first_run(self)
@@ -70,7 +70,7 @@ def onSelect(self,event):
   conn = sqlite3.connect('db_phonebook.db')
   with conn:
     cursor = conn.cursor()
-    cursor.execute("""SELECT col_fname,col_lname,col_phone,col_email FROM tbl_phonebook WHERE col_fullname = (?)""",(value))
+    cursor.execute("""SELECT col_fname,col_lname,col_phone,col_email FROM tbl_phonebook WHERE col_fullname = (?)""",[value])
     varBody = cursor.fetchall()
     for data in varBody:
       self.txt_fname.delete(0,END)
@@ -102,7 +102,7 @@ def addToList(self):
       chkName = count
       if chkName == 0:
         print(f"chkName: {chkName}")
-        cur.execute(f"""INSERT INTO tbl_phonebook (col_fname,col_lname,col_fullname,col_phone,col_email) VALUES {var_fname},{var_lname},{var_fullname},{var_phone},{var_email}""")
+        cur.execute("""INSERT INTO tbl_phonebook (col_fname,col_lname,col_fullname,col_phone,col_email) VALUES (?,?,?,?,?)""",(var_fname,var_lname,var_fullname,var_phone,var_email))
         self.lstList1.insert(END, var_fullname)
         onClear(self)
       else:
@@ -194,7 +194,7 @@ def onUpdate(self):
       count2 = cur.fetchone()[0]
       print(count2)
       if count == 0 or count2 == 0:
-        response = messagebox.askokcancel("Update request","The following changes ({}) and ({}) will be implemented for ({}). \n\nProceed with the update request?")
+        response = messagebox.askokcancel("Update request","The following changes ({}) and ({}) will be implemented for ({}). \n\nProceed with the update request?".format(var_phone,var_email,var_value))
         print(response)
         if response:
           with conn:
