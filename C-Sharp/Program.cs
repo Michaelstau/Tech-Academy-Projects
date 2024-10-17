@@ -37,13 +37,13 @@ namespace VariablesAndDataTypes
             bool needsHelp = Convert.ToBoolean(Console.ReadLine());
 
             //Writes a question to the user.
-            Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
+            Console.WriteLine("Were there any positive experiences you\'d like to share? Please give specifics.");
 
             //Allows user to type a response, and saves it as a string.
             string experiances = Console.ReadLine();
 
             //Writes a question to the user.
-            Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
+            Console.WriteLine("Is there any other feedback you\'d like to provide? Please be specific.");
 
             //Allows user to type a response, and saves it as a string.
             string feedback = Console.ReadLine();
