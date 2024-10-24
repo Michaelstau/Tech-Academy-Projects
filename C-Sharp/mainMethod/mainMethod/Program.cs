@@ -14,6 +14,8 @@ namespace mainMethod
             Console.WriteLine(Overload.Overloaded(2));
             Console.WriteLine(Overload.Overloaded((float)2.64));
             Console.WriteLine(Overload.Overloaded("two"));
+
+            Console.ReadLine();
         }
     }
 }
