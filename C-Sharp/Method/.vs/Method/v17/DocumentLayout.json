@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\Method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{030EEA6E-A978-4388-9C6A-2C30CC684BA1}|Method\\Method.csproj|c:\\users\\micha\\source\\repos\\method\\method\\mathy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030EEA6E-A978-4388-9C6A-2C30CC684BA1}|Method\\Method.csproj|solutionrelative:method\\mathy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030EEA6E-A978-4388-9C6A-2C30CC684BA1}|Method\\Method.csproj|c:\\users\\micha\\source\\repos\\method\\method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030EEA6E-A978-4388-9C6A-2C30CC684BA1}|Method\\Method.csproj|solutionrelative:method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mathy.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Method\\Method\\Mathy.cs",
+              "RelativeDocumentMoniker": "Method\\Mathy.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Method\\Method\\Mathy.cs",
+              "RelativeToolTip": "Method\\Mathy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:26:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Method\\Method\\Program.cs",
+              "RelativeDocumentMoniker": "Method\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Method\\Method\\Program.cs",
+              "RelativeToolTip": "Method\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:22:51.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
