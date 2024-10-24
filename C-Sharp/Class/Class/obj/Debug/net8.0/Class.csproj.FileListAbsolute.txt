@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Class\Class\obj\Debug\net8.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Class\Class\obj\Debug\net8.0\Class.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Class\Class\obj\Debug\net8.0\Class.AssemblyInfo.cs
+C:\Users\micha\source\repos\Class\Class\obj\Debug\net8.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Class\Class\bin\Debug\net8.0\Class.exe
+C:\Users\micha\source\repos\Class\Class\bin\Debug\net8.0\Class.deps.json
+C:\Users\micha\source\repos\Class\Class\bin\Debug\net8.0\Class.runtimeconfig.json
+C:\Users\micha\source\repos\Class\Class\bin\Debug\net8.0\Class.dll
+C:\Users\micha\source\repos\Class\Class\bin\Debug\net8.0\Class.pdb
+C:\Users\micha\source\repos\Class\Class\obj\Debug\net8.0\Class.dll
+C:\Users\micha\source\repos\Class\Class\obj\Debug\net8.0\refint\Class.dll
+C:\Users\micha\source\repos\Class\Class\obj\Debug\net8.0\Class.pdb
+C:\Users\micha\source\repos\Class\Class\obj\Debug\net8.0\Class.genruntimeconfig.cache
+C:\Users\micha\source\repos\Class\Class\obj\Debug\net8.0\ref\Class.dll
