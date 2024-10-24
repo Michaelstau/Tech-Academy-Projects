@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\obj\Debug\net8.0\CallingMeethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\obj\Debug\net8.0\CallingMeethods.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\obj\Debug\net8.0\CallingMeethods.AssemblyInfo.cs
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\obj\Debug\net8.0\CallingMeethods.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\bin\Debug\net8.0\CallingMeethods.exe
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\bin\Debug\net8.0\CallingMeethods.deps.json
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\bin\Debug\net8.0\CallingMeethods.runtimeconfig.json
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\bin\Debug\net8.0\CallingMeethods.dll
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\bin\Debug\net8.0\CallingMeethods.pdb
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\obj\Debug\net8.0\CallingMeethods.dll
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\obj\Debug\net8.0\refint\CallingMeethods.dll
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\obj\Debug\net8.0\CallingMeethods.pdb
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\obj\Debug\net8.0\CallingMeethods.genruntimeconfig.cache
+C:\Users\micha\source\repos\CallingMeethods\CallingMeethods\obj\Debug\net8.0\ref\CallingMeethods.dll
