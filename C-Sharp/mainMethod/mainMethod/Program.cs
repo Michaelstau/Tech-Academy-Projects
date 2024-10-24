@@ -13,7 +13,7 @@ namespace mainMethod
             //calling three methods of overload, and printing results.
             Console.WriteLine(Overload.Overloaded(2));
             Console.WriteLine(Overload.Overloaded((float)2.64));
-            Console.WriteLine(Overload.Overloaded("two"));
+            Console.WriteLine(Overload.Overloaded("2"));
 
             Console.ReadLine();
         }
