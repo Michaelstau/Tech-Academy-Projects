@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\abstractclass\\abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\abstractclass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\abstractclass\\abstractclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\abstractclass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\abstractclass\\abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\abstractclass\\abstractclass\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "IQuitTable.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\IQuitTable.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\IQuitTable.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\IQuitTable.cs",
+              "RelativeToolTip": "AbstractClass\\IQuitTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:37:13.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\Employee.cs",
               "RelativeDocumentMoniker": "AbstractClass\\Employee.cs",
               "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\Employee.cs",
               "RelativeToolTip": "AbstractClass\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T22:10:00.655Z",
               "EditorCaption": ""
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\Program.cs",
               "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
               "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\Program.cs",
               "RelativeToolTip": "AbstractClass\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T22:06:51.422Z",
               "EditorCaption": ""
