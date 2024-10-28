@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\MethodsAndObjects.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\MethodsAndObjects.csproj": {
+    "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\MethodsAndObjects.csproj",
-        "projectName": "MethodsAndObjects",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\MethodsAndObjects.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
+        "projectName": "AbstractClass",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\obj\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

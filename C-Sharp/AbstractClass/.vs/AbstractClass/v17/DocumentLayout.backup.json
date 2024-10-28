@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\abstractclass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\abstractclass\\abstractclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\abstractclass\\abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288CBC8C-DF20-4A64-B615-F99676FAEFF1}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\Employee.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Employee.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\Employee.cs",
+              "RelativeToolTip": "AbstractClass\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:10:00.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\Person.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Person.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\Person.cs",
+              "RelativeToolTip": "AbstractClass\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:09:09.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\AbstractClass\\AbstractClass\\Program.cs",
+              "RelativeToolTip": "AbstractClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:06:51.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

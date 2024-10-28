@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\inheritance\\",
+  "WorkspaceRootPath": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B99F9C4B-48A0-4627-A0E4-B2FAD4DA88A6}|inheritance\\MethodsAndObjects.csproj|c:\\users\\micha\\source\\repos\\inheritance\\inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B99F9C4B-48A0-4627-A0E4-B2FAD4DA88A6}|inheritance\\MethodsAndObjects.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\methodsandobjects\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99F9C4B-48A0-4627-A0E4-B2FAD4DA88A6}|inheritance\\MethodsAndObjects.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99F9C4B-48A0-4627-A0E4-B2FAD4DA88A6}|inheritance\\MethodsAndObjects.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\methodsandobjects\\inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B99F9C4B-48A0-4627-A0E4-B2FAD4DA88A6}|inheritance\\MethodsAndObjects.csproj|solutionrelative:inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B99F9C4B-48A0-4627-A0E4-B2FAD4DA88A6}|inheritance\\MethodsAndObjects.csproj|c:\\users\\micha\\source\\repos\\inheritance\\inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B99F9C4B-48A0-4627-A0E4-B2FAD4DA88A6}|inheritance\\MethodsAndObjects.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\methodsandobjects\\inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B99F9C4B-48A0-4627-A0E4-B2FAD4DA88A6}|inheritance\\MethodsAndObjects.csproj|solutionrelative:inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B99F9C4B-48A0-4627-A0E4-B2FAD4DA88A6}|inheritance\\inheritance.csproj|c:\\users\\micha\\source\\repos\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99F9C4B-48A0-4627-A0E4-B2FAD4DA88A6}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\inheritance\\inheritance\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\Employee.cs",
               "RelativeDocumentMoniker": "inheritance\\Employee.cs",
-              "ToolTip": "C:\\Users\\micha\\source\\repos\\inheritance\\inheritance\\Employee.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\Employee.cs",
               "RelativeToolTip": "inheritance\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T19:25:19.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\inheritance\\inheritance\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\Person.cs",
               "RelativeDocumentMoniker": "inheritance\\Person.cs",
-              "ToolTip": "C:\\Users\\micha\\source\\repos\\inheritance\\inheritance\\Person.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\Person.cs",
               "RelativeToolTip": "inheritance\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T19:25:06.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\inheritance\\inheritance\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\Program.cs",
               "RelativeDocumentMoniker": "inheritance\\Program.cs",
-              "ToolTip": "C:\\Users\\micha\\source\\repos\\inheritance\\inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\MethodsAndObjects\\inheritance\\Program.cs",
               "RelativeToolTip": "inheritance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T18:57:16.248Z",
               "EditorCaption": ""
