@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\Parsing Enums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDBC18A-BE7E-4DC1-A421-5B69F820B1F9}|Parsing Enums\\Parsing Enums.csproj|c:\\users\\micha\\onedrive\\desktop\\techacademy\\tech-academy-projects\\c-sharp\\parsing enums\\parsing enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDBC18A-BE7E-4DC1-A421-5B69F820B1F9}|Parsing Enums\\Parsing Enums.csproj|solutionrelative:parsing enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\Parsing Enums\\Parsing Enums\\Program.cs",
+              "RelativeDocumentMoniker": "Parsing Enums\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\OneDrive\\Desktop\\TechAcademy\\Tech-Academy-Projects\\C-Sharp\\Parsing Enums\\Parsing Enums\\Program.cs",
+              "RelativeToolTip": "Parsing Enums\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:27:21.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
