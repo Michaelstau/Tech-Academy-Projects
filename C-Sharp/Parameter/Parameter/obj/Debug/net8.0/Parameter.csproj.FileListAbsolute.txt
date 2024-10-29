@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Parameter\Parameter\bin\Debug\net8.0\Parameter.exe
+C:\Users\micha\source\repos\Parameter\Parameter\bin\Debug\net8.0\Parameter.deps.json
+C:\Users\micha\source\repos\Parameter\Parameter\bin\Debug\net8.0\Parameter.runtimeconfig.json
+C:\Users\micha\source\repos\Parameter\Parameter\bin\Debug\net8.0\Parameter.dll
+C:\Users\micha\source\repos\Parameter\Parameter\bin\Debug\net8.0\Parameter.pdb
+C:\Users\micha\source\repos\Parameter\Parameter\obj\Debug\net8.0\Parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Parameter\Parameter\obj\Debug\net8.0\Parameter.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Parameter\Parameter\obj\Debug\net8.0\Parameter.AssemblyInfo.cs
+C:\Users\micha\source\repos\Parameter\Parameter\obj\Debug\net8.0\Parameter.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Parameter\Parameter\obj\Debug\net8.0\Parameter.dll
+C:\Users\micha\source\repos\Parameter\Parameter\obj\Debug\net8.0\refint\Parameter.dll
+C:\Users\micha\source\repos\Parameter\Parameter\obj\Debug\net8.0\Parameter.pdb
+C:\Users\micha\source\repos\Parameter\Parameter\obj\Debug\net8.0\Parameter.genruntimeconfig.cache
+C:\Users\micha\source\repos\Parameter\Parameter\obj\Debug\net8.0\ref\Parameter.dll

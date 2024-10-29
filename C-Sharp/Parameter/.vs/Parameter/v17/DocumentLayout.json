@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\Parameter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51985AA3-B5CD-4EC5-86D4-3E6123D55946}|Parameter\\Parameter.csproj|c:\\users\\micha\\source\\repos\\parameter\\parameter\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51985AA3-B5CD-4EC5-86D4-3E6123D55946}|Parameter\\Parameter.csproj|solutionrelative:parameter\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51985AA3-B5CD-4EC5-86D4-3E6123D55946}|Parameter\\Parameter.csproj|c:\\users\\micha\\source\\repos\\parameter\\parameter\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51985AA3-B5CD-4EC5-86D4-3E6123D55946}|Parameter\\Parameter.csproj|solutionrelative:parameter\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51985AA3-B5CD-4EC5-86D4-3E6123D55946}|Parameter\\Parameter.csproj|c:\\users\\micha\\source\\repos\\parameter\\parameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51985AA3-B5CD-4EC5-86D4-3E6123D55946}|Parameter\\Parameter.csproj|solutionrelative:parameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Parameter\\Parameter\\Person.cs",
+              "RelativeDocumentMoniker": "Parameter\\Person.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Parameter\\Parameter\\Person.cs",
+              "RelativeToolTip": "Parameter\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:47:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Parameter\\Parameter\\Employee.cs",
+              "RelativeDocumentMoniker": "Parameter\\Employee.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Parameter\\Parameter\\Employee.cs",
+              "RelativeToolTip": "Parameter\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:46:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\Parameter\\Parameter\\Program.cs",
+              "RelativeDocumentMoniker": "Parameter\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\Parameter\\Parameter\\Program.cs",
+              "RelativeToolTip": "Parameter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:45:18.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
