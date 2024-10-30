@@ -18,6 +18,7 @@ namespace Datetime
             int hours = Convert.ToInt32(Console.ReadLine());
             DateTime future = DateTime.Now.AddHours(hours); 
             Console.WriteLine("Hello, it is currently {0}.", future);
+            Console.ReadLine();
 
         }
     }
