@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\bin\Debug\net8.0\TryCatch.exe
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\bin\Debug\net8.0\TryCatch.deps.json
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\bin\Debug\net8.0\TryCatch.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\bin\Debug\net8.0\TryCatch.dll
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\bin\Debug\net8.0\TryCatch.pdb
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.dll
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\obj\Debug\net8.0\refint\TryCatch.dll
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.pdb
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\TechAcademy\Tech-Academy-Projects\C-Sharp\TryCatch\TryCatch\obj\Debug\net8.0\ref\TryCatch.dll
