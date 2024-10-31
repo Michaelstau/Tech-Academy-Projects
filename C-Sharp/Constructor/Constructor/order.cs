@@ -8,8 +8,10 @@ namespace Constructor
 {
     internal class Order
     {
+        //a constructor that chains into another constructor if only one string value is supplied as a prop.
         public Order(string coffee) : this (coffee, "Medium" )
         { }
+        //basic constructor that takes two strings and assigns three props.
         public Order(string coffee, string size)
         { 
             Coffee = coffee;
