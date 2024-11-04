@@ -34,3 +34,11 @@ A project using tkinter to make a gui that handles transfering files locally.
 
 ### [Phonebook](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/Python%20Projects/phonebook)
 A simple tkinter app that saves contact information in a sqlite database.
+
+##C Sharp Projects
+
+### [TwentyOne](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/C-Sharp/TwentyOne)
+The main sample project that I followed along building in C#. Not original, but a fairly complex console app to play the game twenty one.
+
+### [CarInsurance](https://github.com/Michaelstau/Tech-Academy-Projects/tree/main/C-Sharp/CarInsurance)
+A project using Virtual Studio's MVC framework.
