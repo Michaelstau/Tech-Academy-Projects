@@ -8,11 +8,6 @@ namespace TwentyOne
 {
     public struct Card
     {
-        //public Card() //constructor for default card initialization
-        //{
-        //    Suit = "Spades";
-        //    Face = "Two";
-        //}
         public Suit Suit { get; set; }
         public Face Face { get; set; }
         public override string ToString()

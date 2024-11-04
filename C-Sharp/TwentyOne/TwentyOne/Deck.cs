@@ -40,7 +40,6 @@ namespace TwentyOne
                     Cards.RemoveAt(randomIndex);
                 }
                 Cards = tempList;
-                //Console.WriteLine("Deck shuffled");
             }
         }
     }

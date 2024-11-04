@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    interface IWalkAway //naming convention: start interface names with uppercase I
+    interface IWalkAway
     {
         void WalkAway(Player player);
     }

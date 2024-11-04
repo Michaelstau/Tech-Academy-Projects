@@ -35,7 +35,6 @@ namespace TwentyOne
             }
         }
 
-        //operation overloading
         public static Game operator+ (Game game, Player player)
         {
             game.Players.Add(player);

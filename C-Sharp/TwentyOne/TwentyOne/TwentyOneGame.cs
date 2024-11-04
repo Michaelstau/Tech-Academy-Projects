@@ -10,7 +10,7 @@ namespace TwentyOne
     public class TwentyOneGame : Game, IWalkAway
     {
         public TwentyOneDealer Dealer { get; set; }
-        public override void Play() //defining an inherrited abstract method
+        public override void Play()
         {
             Dealer = new TwentyOneDealer();
             foreach (Player player in Players)
@@ -135,7 +135,7 @@ namespace TwentyOne
             }
             foreach (Player player in Players)
             {
-                bool? playerWon = TwentyOneRules.CompareHands(player.Hand, Dealer.Hand); //bool? lets us assign a null value to a bool, giving three possible values, true, false, null
+                bool? playerWon = TwentyOneRules.CompareHands(player.Hand, Dealer.Hand);
                 if (playerWon != null)
                 {
                     Console.WriteLine("Push!");
